@@ -2,6 +2,6 @@
 
 https://codepen.io/Sangita-Paul/pen/MWzvEMK
 
-#Splice
+# Splice
 
 https://codepen.io/Sangita-Paul/pen/jOQLLje
