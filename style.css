@@ -16,23 +16,13 @@ p {
   margin-bottom: 10px;
 }
 
-button {
-  font-size: 16px;
-  padding: 8px 16px;
-  background-color: #4caf50;
-  color: white;
-  border: none;
-  cursor: pointer;
-  transition: background-color 0.3s;
-}
-
-button:hover {
-  background-color: #45a049;
+.fruits-container {
+  margin-top: 20px;
 }
 
 h3 {
   font-size: 18px;
-  margin-top: 20px;
+  margin-bottom: 10px;
 }
 
 ul {
@@ -44,7 +34,7 @@ ul {
 li {
   font-size: 16px;
   padding: 5px;
-  background-color: lightblue; /* Background color of the list items */
+  background-color: lightblue;
   margin-bottom: 5px;
   width: 200px;
   text-align: center;
@@ -52,9 +42,20 @@ li {
 }
 
 .added {
-  background-color: lightgreen; /* Background color for added items */
+  background-color: lightgreen;
 }
 
-.removed {
-  background-color: pink; /* Background color for removed items */
+button {
+  font-size: 16px;
+  padding: 8px 16px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  margin-top: 20px;
+}
+
+button:hover {
+  background-color: #45a049;
 }
