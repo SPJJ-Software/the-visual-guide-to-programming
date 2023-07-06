@@ -1,4 +1,4 @@
-# The Visual Guide to Programming
+# The Visual Guide to Programming Interactive Animated eBook
 
 - Co-authoring a full-spectrum visual learning guide, unlocking the depths of accelerated software engineering principles, for enhanced comprehension and universal accessibility for learners.
 
