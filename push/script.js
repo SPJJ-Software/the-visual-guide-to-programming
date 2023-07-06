@@ -19,15 +19,28 @@ function animatePush() {
     let li = document.createElement('li');
     li.textContent = fruit;
 
+    // Add 'added' class to the newly pushed fruit
+    if (fruit === 'fig') {
+      li.classList.add('added');
+    }
+
     fruitsList.appendChild(li);
   });
 
-  // Apply the 'added' class to the fruitsList to highlight the added item
+  // Apply the 'added' class to the fruitsList to highlight the new array
   fruitsList.classList.add('added');
 
   // Remove the 'added' class after a delay
   setTimeout(function() {
     fruitsList.classList.remove('added');
+
+    // Remove the 'added' class from the newly pushed fruit after a delay
+    let addedFruits = document.querySelectorAll('.added');
+    addedFruits.forEach(function(addedFruit) {
+      setTimeout(function() {
+        addedFruit.classList.remove('added');
+      }, 1000);
+    });
   }, 1000);
 }
 

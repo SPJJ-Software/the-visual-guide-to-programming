@@ -38,10 +38,10 @@ li {
   margin-bottom: 5px;
   width: 200px;
   text-align: center;
-  transition: all 0.5s ease;
+  transition: background-color 0.5s ease;
 }
 
-.added {
+li.added {
   background-color: lightgreen;
 }
 
@@ -53,9 +53,4 @@ button {
   border: none;
   cursor: pointer;
   transition: background-color 0.3s;
-  margin-top: 20px;
-}
-
-button:hover {
-  background-color: #45a049;
-}
+  margin
