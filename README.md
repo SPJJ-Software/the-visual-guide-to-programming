@@ -4,6 +4,8 @@
 
 - Creating JavaScript animations and visual representations for various concepts, such as advanced JavaScript array methods.
 
+- Sample code/animation previews in this repository 
+
 
 # Push
 
