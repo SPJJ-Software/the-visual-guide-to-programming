@@ -1,8 +1,8 @@
 # The Visual Guide to Programming Interactive Animated eBook
 
-- Co-authoring a full-spectrum visual learning guide, unlocking the depths of accelerated software engineering principles, for enhanced comprehension and universal accessibility for learners.
+- Co-authoring an interactive visual learning guide to unlock the depths of accelerated software engineering concepts, such as such as JavaScript Array Methods, for enhanced comprehension and universal accessibility for learners.
 
-- Creating JavaScript animations and visual representations for various concepts, such as advanced JavaScript array methods.
+- Creating animations via JavaScript, React, and Vue, with SQL back-end, and deployment via AWS. 
 
 - Sample code/animation previews in this repository 
 
