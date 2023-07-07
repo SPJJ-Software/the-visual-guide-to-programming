@@ -2,7 +2,7 @@
 
 - Co-authoring an interactive visual learning guide to unlock the depths of accelerated software engineering concepts, such as JavaScript Array Methods, for enhanced comprehension and universal accessibility for learners.
 
-- Creating animations via JavaScript, React, and Vue, with SQL back-end, and deployment via AWS. 
+- Creating animations with JavaScript base code, and refactored using React and Vue, with SQL back-end, and deployment via AWS. 
 
 - Sample code/animation previews in this repository 
 
